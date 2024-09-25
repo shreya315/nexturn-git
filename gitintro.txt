@@ -1,8 +1,9 @@
 this is a repository for course development.
 we will be creating GitHub course.
-
+intro to git
 
 
 
 
 git remote add origin https://github.com/shreya315/nexturn-git.git
+
